@@ -38,7 +38,7 @@ We believe in the power of collaboration! If you're interested in contributing t
 
 ## 📬 Contact Us
 
-For inquiries, suggestions, or collaborations, please reach out at [your-email@example.com](mailto:harshit0414@gmail.com).
+For inquiries, suggestions, or collaborations, please reach out at [harshit0414@gmail.com](mailto:harshit0414@gmail.com).
 
 ---
 
